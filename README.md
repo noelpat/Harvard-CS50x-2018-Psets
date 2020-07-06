@@ -1,5 +1,5 @@
 # Harvard-CS50x-2018-Psets
-Problem sets for Harvard CS50x 2018 course on eDx.
+Problem sets for Harvard CS50x 2018 course on edX.
 
 Solutions I came up with for the problem sets in Harvard CS50x 2018 course on eDx. 
 
